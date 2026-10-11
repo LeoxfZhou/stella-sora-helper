@@ -1,0 +1,37 @@
+task_id,english_name,chinese_name,tier,requirements,bonuses,category_priority
+monetary_reward_3,Monetary Reward: III,货币报酬·III,3,position.vanguard|position.versatile|position.vanguard,style.adventurous|style.inquisitive,10
+monetary_reward_2,Monetary Reward: II,货币报酬·II,2,position.vanguard|position.versatile,style.adventurous|style.inquisitive,10
+monetary_reward_1,Monetary Reward: I,货币报酬·I,1,position.versatile,style.creative,10
+experience_gain_3,Experience Gain: III,经验获取·III,3,position.vanguard|position.versatile|position.vanguard,style.adventurous|style.creative,10
+experience_gain_2,Experience Gain: II,经验获取·II,2,position.vanguard|position.versatile,style.adventurous|style.creative,10
+experience_gain_1,Experience Gain: I,经验获取·I,1,position.vanguard,style.creative,10
+disc_material_3,Disc Material: III,委托光盘材料·III,3,position.versatile|position.support|position.versatile,style.collector|style.adventurous,10
+disc_material_2,Disc Material: II,委托光盘材料·II,2,position.versatile|position.support,style.collector|style.adventurous,10
+disc_material_1,Disc Material: I,委托光盘材料·I,1,position.vanguard,style.collector,10
+trekker_material_a_3,Trekker Material A: III,旅人突破材料A·III,3,position.vanguard|position.support|position.vanguard,style.steady|style.inquisitive,30
+trekker_material_a_2,Trekker Material A: II,旅人突破材料A·II,2,position.vanguard|position.support,style.steady|style.inquisitive,30
+trekker_material_a_1,Trekker Material A: I,旅人突破材料A·I,1,position.support,style.adventurous,30
+trekker_material_b_3,Trekker Material B: III,旅人突破材料B·III,3,position.vanguard|position.support|position.vanguard,style.collector|style.creative,30
+trekker_material_b_2,Trekker Material B: II,旅人突破材料B·II,2,position.vanguard|position.support,style.collector|style.creative,30
+trekker_material_b_1,Trekker Material B: I,旅人突破材料B·I,1,position.vanguard,style.collector,30
+trekker_material_c_3,Trekker Material C: III,旅人突破材料C·III,3,position.versatile|position.support|position.versatile,style.steady|style.creative,30
+trekker_material_c_2,Trekker Material C: II,旅人突破材料C·II,2,position.versatile|position.support,style.steady|style.creative,30
+trekker_material_c_1,Trekker Material C: I,旅人突破材料C·I,1,position.versatile,style.creative,30
+disc_material_a_3,Disc Material A: III,寻踪光盘材料A·III,3,position.versatile|position.support|position.versatile,style.steady|style.adventurous,20
+disc_material_a_2,Disc Material A: II,寻踪光盘材料A·II,2,position.versatile|position.support,style.steady|style.adventurous,20
+disc_material_a_1,Disc Material A: I,寻踪光盘材料A·I,1,position.versatile,style.adventurous,20
+disc_material_b_3,Disc Material B: III,寻踪光盘材料B·III,3,position.vanguard|position.support|position.vanguard,style.collector|style.inquisitive,20
+disc_material_b_2,Disc Material B: II,寻踪光盘材料B·II,2,position.vanguard|position.support,style.collector|style.inquisitive,20
+disc_material_b_1,Disc Material B: I,寻踪光盘材料B·I,1,position.support,style.collector,20
+disc_material_c_3,Disc Material C: III,寻踪光盘材料C·III,3,position.vanguard|position.versatile|position.versatile,style.creative|style.inquisitive,50
+disc_material_c_2,Disc Material C: II,寻踪光盘材料C·II,2,position.vanguard|position.versatile,style.creative|style.inquisitive,50
+disc_material_c_1,Disc Material C: I,寻踪光盘材料C·I,1,position.vanguard,style.creative,50
+kung_fu_game_3,Kung Fu Game: III,功夫游戏卡带·III,3,position.versatile|position.support|position.support,style.steady|style.inquisitive,40
+kung_fu_game_2,Kung Fu Game: II,功夫游戏卡带·II,2,position.support|position.versatile,style.inquisitive|style.steady,40
+kung_fu_game_1,Kung Fu Game: I,功夫游戏卡带·I,1,position.versatile,style.steady,40
+shooter_game_3,Shooter Game: III,射击游戏卡带·III,3,position.versatile|position.vanguard|position.versatile,style.creative|style.steady,40
+shooter_game_2,Shooter Game: II,射击游戏卡带·II,2,position.versatile|position.vanguard,style.creative|style.steady,40
+shooter_game_1,Shooter Game: I,射击游戏卡带·I,1,position.versatile,style.creative,40
+rhythm_game_3,Rhythm Game: III,节奏游戏卡带·III,3,position.vanguard|position.versatile|position.vanguard,style.collector|style.inquisitive,40
+rhythm_game_2,Rhythm Game: II,节奏游戏卡带·II,2,position.vanguard|position.versatile,style.collector|style.inquisitive,40
+rhythm_game_1,Rhythm Game: I,节奏游戏卡带·I,1,position.vanguard,style.inquisitive,40

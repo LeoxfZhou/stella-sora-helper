@@ -1,0 +1,33 @@
+id,zh,en
+attack.melee,近战,Melee
+attack.ranged,远程,Ranged
+element.aqua,水,Aqua
+element.ignis,火,Ignis
+element.lux,光,Lux
+element.terra,地,Terra
+element.umbra,暗,Umbra
+element.ventus,风,Ventus
+faction.ashwind_clan,灰风俱乐部,Ashwind Clan
+faction.baize_bureau,白泽公署,Baize Bureau
+faction.fenghuang_diner,凤凰炒蛋,Fenghuang Diner
+faction.freelance_trekker,自由旅人,Freelance Trekker
+faction.goodwind_homecare,谷风家政,Goodwind Homecare
+faction.grace_imperium,恩赐意志,Grace Imperium
+faction.imperial_guard,帝国卫队,Imperial Guard
+faction.neo_grace_organization,柔光会社,Neo Grace Organization
+faction.new_star_guild,空白旅团,New Star Guild
+faction.petal_bloom,花令旅团,Petal Bloom
+faction.post_haste,万送屋,Post Haste
+faction.scarlet_sights_media,绯曈传讯,Scarlet Sights Media
+faction.trekker_association,地理协会,Trekker Association
+faction.united_harvest,联合种业,United Harvest
+faction.white_cat_troupe,白猫剧团,White Cat Troupe
+faction.yunji_studio,云笈文化,Yunji Studio
+position.support,辅助,Support
+position.vanguard,先锋,Vanguard
+position.versatile,均衡,Versatile
+style.adventurous,冒险家,Adventurous
+style.collector,收集控,Collector
+style.creative,奇思妙想,Creative
+style.inquisitive,求知心切,Inquisitive
+style.steady,稳扎稳打,Steady

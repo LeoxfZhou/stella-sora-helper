@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>星塔旅人助手</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<header class="app-header">
+  <div><p id="app-eyebrow" class="eyebrow">本地离线工具</p><h1 id="app-title">星塔旅人助手</h1><p id="app-subtitle">管理自己的仓库与任务规划。</p></div>
+  <div class="header-actions"><button id="header-settings-button" class="secondary" data-route="app-settings">数据设置</button><div class="status" id="status">读取本地数据…</div></div>
+</header>
+<div id="breadcrumbs" class="breadcrumbs"></div>
+<main>
+  <section id="page-app-settings" class="page">
+    <div class="section-title"><div><h2>数据设置</h2><p>参考数据与个人仓库分离；更新参考资料不会覆盖个人状态。</p></div></div>
+    <article class="card data-update-card"><div><h3>手动检查更新</h3><p class="note">日常使用不联网。检查时下载到暂存区并验证数量、ID、重复项、章节顺序与图片；只有确认后才原子应用，失败时保留旧数据。</p></div><div class="actions"><button data-refresh="stella" class="secondary">更新旅人、纹章与中英文资料</button></div><div id="data-refresh-result" class="note"></div></article>
+    <article class="card data-update-card"><h3>当前离线数据</h3><p>旅人、委托和纹章资料来自 StellaBase；个人拥有状态、等级与语言设置保存在本项目 user_data 目录。</p></article>
+  </section>
+
+  <section id="page-stella-sora" class="page">
+    <div class="section-title"><div><h2 id="stella-page-title">星塔旅人委托助手</h2><p id="stella-page-description">维护个人旅人仓库，再生成四支互不重复的委托队伍。</p></div><div class="stella-heading-actions"><div class="language-switch" aria-label="Stella Sora language"><button type="button" data-stella-language="zh">中文</button><button type="button" data-stella-language="en" class="secondary">English</button></div><div id="stella-stats" class="status"></div></div></div>
+    <div id="stella-preference-warning" class="warning hidden"></div>
+    <div class="stella-function-nav" role="tablist" aria-label="星塔旅人功能"><button id="stella-dispatch-tab" role="tab" aria-selected="true" aria-controls="stella-dispatch-panel">派遣任务</button><button id="stella-emblems-tab" role="tab" aria-selected="false" aria-controls="stella-emblems-panel" class="secondary">纹章推荐</button></div>
+    <div id="stella-emblems-panel" role="tabpanel" aria-labelledby="stella-emblems-tab" class="hidden"><p class="note">选择纹章推荐以载入离线资料。</p></div>
+    <div id="stella-dispatch-panel" role="tabpanel" aria-labelledby="stella-dispatch-tab" class="stella-layout"><section class="card roster-panel"><div class="section-title compact"><div><h3 id="stella-roster-title">旅人仓库</h3><p id="stella-roster-save-status" class="note">等级或拥有状态修改后会自动保存。</p></div><div class="actions"><input id="trekker-search" type="search" placeholder="搜索旅人"><select id="trekker-sort"><option value="level-desc">等级从高到低</option><option value="level-asc">等级从低到高</option><option value="rarity-desc">稀有度从高到低</option><option value="rarity-asc">稀有度从低到高</option></select><select id="trekker-owned"><option value="">全部</option><option value="true">已拥有</option><option value="false">未拥有</option></select></div></div><div id="trekker-grid" class="trekker-grid"></div></section>
+      <section class="card commission-panel"><h3 id="stella-commission-title">委托推荐</h3><p id="stella-commission-note" class="note">当前收益模式自动考虑全部36个任务；培养规划只允许4个不同III级任务。</p><div class="actions"><button id="solve-current">当前收益最大化</button><button id="show-training" class="secondary">指定III级任务</button></div><div id="training-picker" class="training-picker hidden"><div id="tier3-tasks" class="task-checks"></div><button id="solve-training">生成培养方案</button></div><div id="commission-status" class="note"></div><div id="commission-results"></div></section>
+    </div>
+  </section>
+</main>
+
+<script src="/trekker_sort.js"></script>
+
+<script src="/app.js"></script>
+
+
+
+<script src="/stella_emblems.js"></script>
+</body>
+</html>

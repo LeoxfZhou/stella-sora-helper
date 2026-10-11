@@ -1,0 +1,41 @@
+trekker_id,name,english_name,rarity,element,position,attack_range,style,faction,trait1,trait2,trait3,image_file,seed_owned,seed_level
+trekker_103,琥珀,Amber,4,element.ignis,position.vanguard,attack.ranged,style.collector,faction.new_star_guild,position.vanguard,style.collector,faction.new_star_guild,trekker_103.png,false,1
+trekker_107,缇莉娅,Tilia,4,element.lux,position.support,attack.melee,style.steady,faction.imperial_guard,position.support,style.steady,faction.imperial_guard,trekker_107.png,false,1
+trekker_108,卡西米拉,Kasimira,4,element.ignis,position.versatile,attack.ranged,style.adventurous,faction.white_cat_troupe,position.versatile,style.adventurous,faction.white_cat_troupe,trekker_108.png,false,1
+trekker_110,翡冷翠,Firenze,5,element.umbra,position.vanguard,attack.melee,style.steady,faction.united_harvest,position.vanguard,style.steady,faction.united_harvest,trekker_110.png,false,1
+trekker_111,鸢尾,Iris,4,element.aqua,position.versatile,attack.ranged,style.creative,faction.new_star_guild,position.versatile,style.creative,faction.new_star_guild,trekker_111.png,false,1
+trekker_112,尘沙,Noya,4,element.ventus,position.vanguard,attack.melee,style.creative,faction.new_star_guild,position.vanguard,style.creative,faction.new_star_guild,trekker_112.png,false,1
+trekker_113,师渺,Shimiao,4,element.aqua,position.vanguard,attack.melee,style.inquisitive,faction.baize_bureau,position.vanguard,style.inquisitive,faction.baize_bureau,trekker_113.png,false,1
+trekker_114,猫眼,Chaton,5,element.ignis,position.vanguard,attack.ranged,style.creative,faction.white_cat_troupe,position.vanguard,style.creative,faction.white_cat_troupe,trekker_114.png,false,1
+trekker_115,火垂,Firefly,5,element.lux,position.versatile,attack.ranged,style.collector,faction.grace_imperium,position.versatile,style.collector,faction.grace_imperium,trekker_115.png,false,1
+trekker_116,岭川,Ridge,4,element.terra,position.versatile,attack.ranged,style.collector,faction.united_harvest,position.versatile,style.collector,faction.united_harvest,trekker_116.png,false,1
+trekker_117,璟麟,Jinglin,4,element.lux,position.versatile,attack.ranged,style.inquisitive,faction.fenghuang_diner,position.versatile,style.inquisitive,faction.fenghuang_diner,trekker_117.png,false,1
+trekker_118,科洛妮丝,Coronis,4,element.umbra,position.versatile,attack.melee,style.adventurous,faction.freelance_trekker,position.versatile,style.adventurous,faction.freelance_trekker,trekker_118.png,false,1
+trekker_119,花原,Nanoha,5,element.ventus,position.vanguard,attack.ranged,style.inquisitive,faction.goodwind_homecare,position.vanguard,style.inquisitive,faction.goodwind_homecare,trekker_119.png,false,1
+trekker_120,卡娜丝,Canace,4,element.ventus,position.versatile,attack.ranged,style.adventurous,faction.grace_imperium,position.versatile,style.adventurous,faction.grace_imperium,trekker_120.png,false,1
+trekker_123,杏子,Ann,4,element.ventus,position.support,attack.melee,style.adventurous,faction.freelance_trekker,position.support,style.adventurous,faction.freelance_trekker,trekker_123.png,false,1
+trekker_125,苍兰,Freesia,5,element.aqua,position.versatile,attack.melee,style.adventurous,faction.post_haste,position.versatile,style.adventurous,faction.post_haste,trekker_125.png,false,1
+trekker_126,紫槿,Flora,4,element.ignis,position.support,attack.ranged,style.collector,faction.freelance_trekker,position.support,style.collector,faction.freelance_trekker,trekker_126.png,false,1
+trekker_127,特丽莎,Teresa,4,element.aqua,position.support,attack.melee,style.steady,faction.post_haste,position.support,style.steady,faction.post_haste,trekker_127.png,false,1
+trekker_130,多娜,Donna,5,element.aqua,position.versatile,attack.ranged,style.creative,faction.post_haste,position.versatile,style.creative,faction.post_haste,trekker_130.png,false,1
+trekker_132,密涅瓦,Minova,5,element.lux,position.versatile,attack.melee,style.steady,faction.ashwind_clan,position.versatile,style.steady,faction.ashwind_clan,trekker_132.png,false,1
+trekker_133,夏花,Nazuka,5,element.ventus,position.versatile,attack.ranged,style.steady,faction.petal_bloom,position.versatile,style.steady,faction.petal_bloom,trekker_133.png,false,1
+trekker_134,冬香,Fuyuka,5,element.ignis,position.vanguard,attack.melee,style.inquisitive,faction.petal_bloom,position.vanguard,style.inquisitive,faction.petal_bloom,trekker_134.png,false,1
+trekker_135,雾语,Mistique,5,element.umbra,position.versatile,attack.ranged,style.creative,faction.scarlet_sights_media,position.versatile,style.creative,faction.scarlet_sights_media,trekker_135.png,false,1
+trekker_137,埃莉诺,Eleanor,5,element.ventus,position.versatile,attack.melee,style.steady,faction.freelance_trekker,position.versatile,style.steady,faction.freelance_trekker,trekker_137.png,false,1
+trekker_139,艾蕾,Allie,5,element.aqua,position.vanguard,attack.melee,style.steady,faction.freelance_trekker,position.vanguard,style.steady,faction.freelance_trekker,trekker_139.png,false,1
+trekker_140,斯帕克拉,Sparkla,5,element.terra,position.vanguard,attack.ranged,style.creative,faction.neo_grace_organization,position.vanguard,style.creative,faction.neo_grace_organization,trekker_140.png,false,1
+trekker_141,赤霞,Chixia,5,element.ignis,position.versatile,attack.melee,style.collector,faction.yunji_studio,position.versatile,style.collector,faction.yunji_studio,trekker_141.png,false,1
+trekker_142,珂赛特,Cosette,4,element.umbra,position.support,attack.melee,style.inquisitive,faction.freelance_trekker,position.support,style.inquisitive,faction.freelance_trekker,trekker_142.png,false,1
+trekker_143,风影,Wraith,5,element.ventus,position.vanguard,attack.ranged,style.adventurous,faction.grace_imperium,position.vanguard,style.adventurous,faction.grace_imperium,trekker_143.png,false,1
+trekker_144,千都世,Chitose,5,element.aqua,position.vanguard,attack.melee,style.inquisitive,faction.freelance_trekker,position.vanguard,style.inquisitive,faction.freelance_trekker,trekker_144.png,false,1
+trekker_145,乙叶,Otoha,5,element.umbra,position.versatile,attack.ranged,style.inquisitive,faction.freelance_trekker,position.versatile,style.inquisitive,faction.freelance_trekker,trekker_145.png,false,1
+trekker_147,焦糖,Caramel,4,element.umbra,position.vanguard,attack.ranged,style.creative,faction.freelance_trekker,position.vanguard,style.creative,faction.freelance_trekker,trekker_147.png,false,1
+trekker_149,格芮,Gerie,5,element.terra,position.vanguard,attack.melee,style.inquisitive,faction.grace_imperium,position.vanguard,style.inquisitive,faction.grace_imperium,trekker_149.png,false,1
+trekker_150,菈露,Laru,4,element.lux,position.vanguard,attack.melee,style.adventurous,faction.grace_imperium,position.vanguard,style.adventurous,faction.grace_imperium,trekker_150.png,false,1
+trekker_155,希娅,Shia,5,element.lux,position.vanguard,attack.ranged,style.adventurous,faction.freelance_trekker,position.vanguard,style.adventurous,faction.freelance_trekker,trekker_155.png,false,1
+trekker_156,小禾,Nazuna,5,element.terra,position.support,attack.ranged,style.collector,faction.petal_bloom,position.support,style.collector,faction.petal_bloom,trekker_156.png,false,1
+trekker_157,花铃,Karin,5,element.umbra,position.vanguard,attack.ranged,style.creative,faction.freelance_trekker,position.vanguard,style.creative,faction.freelance_trekker,trekker_157.png,false,1
+trekker_158,菈露（圣夜）,Snowish Laru,5,element.ignis,position.versatile,attack.melee,style.creative,faction.grace_imperium,position.versatile,style.creative,faction.grace_imperium,trekker_158.png,false,1
+trekker_159,科洛妮丝（新春）,Springseek Coronis,5,element.terra,position.versatile,attack.ranged,style.collector,faction.freelance_trekker,position.versatile,style.collector,faction.freelance_trekker,trekker_159.png,false,1
+trekker_160,薇洛（盛夏）,Suntide Willow,5,element.aqua,position.support,attack.ranged,style.steady,faction.trekker_association,position.support,style.steady,faction.trekker_association,trekker_160.png,false,1
